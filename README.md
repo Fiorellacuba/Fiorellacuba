@@ -18,15 +18,17 @@
 [Instagram]: https://www.instagram.com/fiorellacubaa?dlrf=anlvd3NscWI0Zmdz&utm_source=qr
 
 ###  Certificaciones digitales
-- Gestión de Power BI Básico - Intermedio
 
-- Especialización en Excel
+<p>
+  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Google IA essentials">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Pyton y SQL Básico">
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/GOOGLE_AI_ESSENTIALS-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Essentials" />
 
-- Especialización en Analítica de Datos Financieros con Python y Power BI
-
-- Google IA essentials
-
-- Pyton y SQL- Básico
+</p>
 
 
 
